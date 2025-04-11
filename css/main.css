@@ -17,3 +17,9 @@ body{
     position:absolute;
     bottom: 0;
 }
+
+.obstacle{
+    background-color: purple;
+    position:absolute;
+
+}
